@@ -649,7 +649,6 @@
                     <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"641052",ustr:"",originlat:"0",clientrtt:"6",ghostip:"189.247.207.52",ipv6:false,pct:"10",clientip:"189.152.47.55",requestid:"49d7709",region:"20753",protocol:"h2",blver:14,akM:"x",akN:"ae",akTT:"O",akTX:"1",akTI:"49d7709",ai:"493573",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
                     </head>
     <body>
-<!--*|IF:MC_PREVIEW_TEXT|*--><!--[if !gte mso 9]><!----><span class="mcnPreviewText" style="display:none; font-size:0px; line-height:0px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;">*|MC_PREVIEW_TEXT|*</span><!--<![endif]--> <!--*|END:IF|*-->
 <center>
 <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" id="bodyTable" width="100%">
 	<tbody>
@@ -790,13 +789,12 @@
 									<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="max-width:100%; min-width:100%;" width="100%">
 										<tbody>
 											<tr>
-												<td class="mcnTextContent" style="padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18px;" valign="top">
-												<p dir="ltr"><span style="color:#002640"><span style="font-family:roboto,helvetica neue,helvetica,arial,sans-serif">Si tienes alguna solicitud especial, duda o comentario por favor no dudes en buscarme.<br>
-												<br>
-												Muchas gracias por sumarte a nuestra evolución.<br>
-												<br>
-												<strong>Pedroluiz Ibarra</strong></span></span></p>
-												</td>
+												<td class="mcnTextContent" style="padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18px;" valign="top"><p dir="ltr"><span style="color:#002640"><span style="font-family:roboto,helvetica neue,helvetica,arial,sans-serif">Si tienes alguna solicitud especial, duda o comentario por favor no dudes en buscarme.<br>
+<br>
+Muchas gracias por sumarte a nuestra evolución.<br>
+<br>
+<strong>Pedroluiz Ibarra</strong></span></span></p>
+</td>
 											</tr>
 										</tbody>
 									</table>
@@ -812,7 +810,7 @@
 						</td>
 					</tr>
 					<tr>
-						<td id="templateUpperBody" valign="top" class="">&nbsp;</td>
+						<td id="templateUpperBody" valign="top" class="" pardot-data="" style="background: rgb(244, 244, 244);"></td>
 					</tr>
 					<tr>
 						<td id="templateColumns" valign="top"><!--[if (gte mso 9)|(IE)]>
@@ -822,7 +820,6 @@
                                     <![endif]-->
 						<table align="left" border="0" cellpadding="0" cellspacing="0" class="columnWrapper" width="300">
 							<tbody>
-								
 							</tbody>
 						</table>
 						<!--[if (gte mso 9)|(IE)]>
@@ -832,7 +829,6 @@
 
 						<table align="left" border="0" cellpadding="0" cellspacing="0" class="columnWrapper" width="300">
 							<tbody>
-								
 							</tbody>
 						</table>
 						<!--[if (gte mso 9)|(IE)]>
@@ -841,7 +837,6 @@
                                     </table>
                                     <![endif]--></td>
 					</tr>
-					
 					<tr>
 						<td id="templateFooter" valign="top">
 						<table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
@@ -856,10 +851,12 @@
 									<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="max-width:100%; min-width:100%;" width="100%">
 										<tbody>
 											<tr>
-												<td class="mcnTextContent" style="padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18px;" valign="top">
-												<div style="text-align: center;"><br>
-												<span style="font-family:roboto,helvetica neue,helvetica,arial,sans-serif"><strong><span style="font-size:18px">#JuntosSomosCovalto</span></strong></span></div>
-												</td>
+												<td class="mcnTextContent" style="padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18px;" valign="top"><div style="text-align: center;"><br>
+<span style="font-family:roboto,helvetica neue,helvetica,arial,sans-serif"><strong><span style="font-size:18px">#JuntosSomosCovalto</span></strong></span></div>
+</td>
+											</tr><tr>
+												<td class="mcnTextContent" style="padding: 0px 18px 9px; color: rgb(0, 11, 37);" valign="top" pardot-data=""><div style="text-align: center;"><a href="{{Unsubscribe}}" rel="nofollow,noreferrer"><span style="font-family:roboto,helvetica neue,helvetica,arial,sans-serif"><span style="font-size:18px">Darme de baja</span></span></a></div>
+</td>
 											</tr>
 										</tbody>
 									</table>
