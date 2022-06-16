@@ -24,7 +24,10 @@
 </style>
 <![endif]-->
 <!--[if !mso]><!--><!--<![endif]-->
-<style>a:link {color:#197bbd;font-weight:normal;text-decoration:underline;font-style:normal}</style><style>@import "https://static-forms.klaviyo.com/fonts/api/v1/UT2gca/custom_fonts.css";
+<style>a:link {color:#197bbd;font-weight:normal;text-decoration:underline;font-style:normal}
+a:visited {color:#197bbd;font-weight:normal;text-decoration:underline;font-style:normal}
+a:active {color:#197bbd;font-weight:normal;text-decoration:underline;font-style:normal}
+a:hover {color:#197bbd;font-weight:normal;text-decoration:underline;font-style:normal}</style><style>@import "https://static-forms.klaviyo.com/fonts/api/v1/UT2gca/custom_fonts.css";
 #outlook a {
 padding: 0
 }
@@ -56,27 +59,19 @@ margin: 13px 0
 width: 100% !important;
 max-width: 100%
 }
-.mj-column-per-50 {
-width: 50% !important;
-max-width: 50%
-}
 }
 .moz-text-html .mj-column-per-100 {
 width: 100% !important;
 max-width: 100%
 }
-.moz-text-html .mj-column-per-50 {
-width: 50% !important;
-max-width: 50%
+.kl-button a {
+display: block !important
 }
 .kl-text-table-layout > table {
 table-layout: auto
 }
 .kl-text-table-layout > table > tbody > tr > td > table {
 table-layout: auto
-}
-.kl-button a {
-display: block !important
 }
 @media only screen and (max-width: 480px) {
 table.mj-full-width-mobile {
@@ -217,7 +212,7 @@ text-align: left
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
 <tbody>
 <tr>
-<td align="center" class="kl-image kl-image-3313524" style="font-size:0px;word-break:break-word;">
+<td align="center" class="kl-image kl-image-14836" style="font-size:0px;word-break:break-word;">
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;">
 <tbody>
 <tr>
@@ -282,9 +277,9 @@ text-align: left
 <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
 <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><![endif]-->
 <div style="width:600px;">
-<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#00415E" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="background:#00415E;background-color:#00415E;margin:0px auto;border-radius:0px 0px 0px 0px;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#00415E;background-color:#00415E;width:100%;border-radius:0px 0px 0px 0px;">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#ffffff;background-color:#ffffff;margin:0px auto;border-radius:0px 0px 0px 0px;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;border-radius:0px 0px 0px 0px;">
 <tbody>
 <tr>
 <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;text-align:center;">
@@ -298,39 +293,9 @@ text-align: left
 <td style="direction:ltr;font-size:0px;padding:0;text-align:center;">
 <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="width:600px;" ><![endif]-->
 <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;">
-<!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:middle;width:300px;" ><![endif]-->
-<div class="mj-column-per-50 mj-outlook-group-fix kl-column" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:50%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;table-layout:fixed;" width="100%">
-<tbody>
-<tr>
-<td style="font-size:0px;word-break:break-word;">
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="table-layout:fixed;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="left" class="kl-text" style="font-size:0px;padding:0px;padding-top:0px;padding-right:8px;padding-bottom:0px;padding-left:8px;word-break:break-word;">
-<div style="font-family:'Atlas Grotesk', Helvetica, Arial, sans-serif;font-size:14px;font-style:Normal;font-weight:400;letter-spacing:0px;line-height:1.3;text-align:left;color:#002640;"><h2><span style="color: #cfd9de;">Construye un mejor futuro con una inversión desde <span style="font-family: serif; font-weight: 400;">$</span>5,000 M.N. </span></h2></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td><td style="vertical-align:middle;width:300px;" ><![endif]-->
-<div class="mj-column-per-50 mj-outlook-group-fix kl-column" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:50%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;table-layout:fixed;" width="100%">
+<!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix kl-column" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;table-layout:fixed;" width="100%">
 <tbody>
 <tr>
 <td align="center" style="font-size:0px;word-break:break-word;">
@@ -342,12 +307,12 @@ text-align: left
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
 <tbody>
 <tr>
-<td align="center" class="kl-image kl-image-3313525" style="font-size:0px;word-break:break-word;">
+<td align="center" class="kl-image kl-image-14837" style="font-size:0px;word-break:break-word;">
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;">
 <tbody>
 <tr>
-<td class="kl-img-base-auto-width" style="width:300px;border:0;padding:0px 0px 0px 0px;" valign="top">
-<img src="https://d3k81ch9hvuctc.cloudfront.net/company/UT2gca/images/d9c7d298-dc25-47f2-b2e7-37db4016247f.jpeg" style="display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="300"/>
+<td class="kl-img-base-auto-width" style="width:600px;border:0;padding:0px 0px 0px 0px;" valign="top">
+<img src="https://d3k81ch9hvuctc.cloudfront.net/company/UT2gca/images/f9b69845-9f2f-4811-968c-2fd3ed55d54c.jpeg" style="display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600"/>
 </td>
 </tr>
 </tbody>
@@ -441,7 +406,7 @@ text-align: left
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;line-height:100%;">
 <tr>
 <td align="center" bgcolor="#FFAB4D" role="presentation" style="border:none;border-radius:50px;cursor:auto;font-style:Normal;mso-padding-alt:16px 32px 16px 32px;background:#FFAB4D;" valign="middle">
-<a href="https://covalto.themilddev.com/" style="display:inline-block;background:#FFAB4D;color:#002640;font-family:'Atlas Grotesk', Helvetica, Arial, sans-serif;font-size:16px;font-style:Normal;font-weight:500;line-height:100%;letter-spacing:0px;margin:0;text-decoration:none;text-transform:none;padding:16px 32px 16px 32px;mso-padding-alt:0px;border-radius:50px;" target="_blank">
+<a href="https://covalto.themilddev.com/" style='color:#002640; font-style:Normal; font-weight:500; text-decoration:none; display:inline-block; background:#FFAB4D; font-family:"Atlas Grotesk", Helvetica, Arial, sans-serif; font-size:16px; line-height:100%; letter-spacing:0; margin:0; text-transform:none; padding:16px 32px 16px 32px; mso-padding-alt:0; border-radius:50px' target="_blank">
 Abre tu cuenta
 </a>
 </td>
@@ -555,7 +520,7 @@ Abre tu cuenta
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
 <tbody>
 <tr>
-<td align="center" class="kl-image kl-image-3313526" style="font-size:0px;word-break:break-word;">
+<td align="center" class="kl-image kl-image-14838" style="font-size:0px;word-break:break-word;">
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;">
 <tbody>
 <tr>
@@ -1075,7 +1040,7 @@ Abre tu cuenta
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;line-height:100%;">
 <tr>
 <td align="center" bgcolor="#FFAB4D" role="presentation" style="border:none;border-radius:50px;cursor:auto;font-style:Normal;mso-padding-alt:16px 32px 16px 32px;background:#FFAB4D;" valign="middle">
-<a href="https://docs.google.com/presentation/d/1fAeNIhoHvXOrdVisJheys6GgA6bfG_TBjnAIPtoEYso/edit?usp=sharing" style="display:inline-block;background:#FFAB4D;color:#002640;font-family:'Atlas Grotesk', Helvetica, Arial, sans-serif;font-size:16px;font-style:Normal;font-weight:500;line-height:100%;letter-spacing:0px;margin:0;text-decoration:none;text-transform:none;padding:16px 32px 16px 32px;mso-padding-alt:0px;border-radius:50px;" target="_blank">
+<a href="https://docs.google.com/presentation/d/1fAeNIhoHvXOrdVisJheys6GgA6bfG_TBjnAIPtoEYso/edit?usp=sharing" style='color:#002640; font-style:Normal; font-weight:500; text-decoration:none; display:inline-block; background:#FFAB4D; font-family:"Atlas Grotesk", Helvetica, Arial, sans-serif; font-size:16px; line-height:100%; letter-spacing:0; margin:0; text-transform:none; padding:16px 32px 16px 32px; mso-padding-alt:0; border-radius:50px' target="_blank">
 Conocé más
 </a>
 </td>
@@ -1166,14 +1131,14 @@ Conocé más
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
 <tbody>
 <tr>
-<td align="center" class="kl-image kl-image-3313527" style="font-size:0px;word-break:break-word;">
+<td align="center" class="kl-image kl-image-14839" style="font-size:0px;word-break:break-word;">
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;">
 <tbody>
 <tr>
 <td class="" style="width:60px;border:0;padding:20px 18px 20px 18px;" valign="top">
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;"><tbody><tr>
 <td valign="top">
-<a href="http://covalto.com">
+<a href="http://covalto.com" style="color:#197bbd; font-style:normal; font-weight:normal; text-decoration:underline">
 <img alt="IconoCovalto" src="https://d3k81ch9hvuctc.cloudfront.net/company/UT2gca/images/9ae895b1-c22d-49da-a208-87c31d749081.png" style="display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" title="IconoCovalto" width="60"/>
 </a>
 </td></tr></tbody></table>
@@ -1205,10 +1170,10 @@ Conocé más
 <td align="left" class="kl-text" style="font-size:0px;padding:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word;">
 <div style="font-family:'Atlas Grotesk', Helvetica, Arial, sans-serif;font-size:14px;font-style:Normal;font-weight:400;letter-spacing:0px;line-height:1.3;text-align:left;color:#002640;"><div>
 <div style="text-align: center;">
-<div style="text-align: justify;"><span style="font-size: 12px; color: #576471;">Titulares y productos garantizados por el IPAB. <br/><br/>El Instituto para la Protección al Ahorro Bancario (IPAB) garantiza las operaciones establecidas en el Artículo 46 fracciones I y II de la Ley de Instituciones de Créditos, hasta por 400 mil unidades de inversión (UDI) por persona física o moral, y por banco. Visita https://www.gob.mx/ipab. <br/><br/>*Términos y condiciones. Monto de inversión mínimo de $5,000 M.N. por cuenta. La entrega de recompensas está sujeta a la apertura de 130 cuentas durante el periodo del 2 de mayo al 30 de junio de 2022. Todas las cuentas que se hayan aperturado desde el 2 de mayo y hasta el 30 de junio estarán participando. Los ganadores serán la apertura de cuenta #1, 10, 20, 30, 40, 50, 60, 70, 80 y 90. Los ganadores se darán a conocer por correo el día lunes 4 de julio. <br/><br/><span style="font-weight: bold; font-size: 16px;">Pagaré Covalto GAT nominal: 9.53% y GAT Real: 4.60%</span>. Antes de impuestos. Fecha de cálculo 17 de mayo de 2022. Calculado con un monto de inversión de $4,000,000 M.N. a un plazo de inversión de 336 días con una tasa fija anual de 9.50%. Sujeto a cambio sin previo aviso. El cálculo específico por operación se entrega al momento de la contratación. Vigencia de la promoción del 20 de mayo 2022 al 30 de junio de 2022.<br/><br/>Válido solo para colaboradores de la Ciudad de México que tengan acceso a los edificios de Cervantes de Saavedra y Ferrocarril de Cuernavaca. <br/><br/>Consulta los costos y las comisiones de nuestros productos en covalto.com/archivos.<br/><br/>Conoce las tasas y cálculos de GAT del instrumento de inversión <a href="https://credijusto-production-covalto-website.s3.amazonaws.com/GAT_Inversion_Covalto_a9519ab93e.pdf">aquí</a>. </span></div>
+<div style="text-align: justify;"><span style="font-size: 12px; color: #576471;">Titulares y productos garantizados por el IPAB. <br/><br/>El Instituto para la Protección al Ahorro Bancario (IPAB) garantiza las operaciones establecidas en el Artículo 46 fracciones I y II de la Ley de Instituciones de Créditos, hasta por 400 mil unidades de inversión (UDI) por persona física o moral, y por banco. Visita https://www.gob.mx/ipab. <br/><br/>*Términos y condiciones. Monto de inversión mínimo de $5,000 M.N. por cuenta. La entrega de recompensas está sujeta a la apertura de 130 cuentas durante el periodo del 2 de mayo al 30 de junio de 2022. Todas las cuentas que se hayan aperturado desde el 2 de mayo y hasta el 30 de junio estarán participando. Los ganadores serán la apertura de cuenta #1, 10, 20, 30, 40, 50, 60, 70, 80 y 90. Los ganadores se darán a conocer por correo el día lunes 4 de julio. <br/><br/><span style="font-weight: bold; font-size: 16px;">Pagaré Covalto GAT nominal: 9.53% y GAT Real: 4.60%</span>. Antes de impuestos. Fecha de cálculo 17 de mayo de 2022. Calculado con un monto de inversión de $4,000,000 M.N. a un plazo de inversión de 336 días con una tasa fija anual de 9.50%. Sujeto a cambio sin previo aviso. El cálculo específico por operación se entrega al momento de la contratación. Vigencia de la promoción del 20 de mayo 2022 al 30 de junio de 2022.<br/><br/>Válido solo para colaboradores de la Ciudad de México que tengan acceso a los edificios de Cervantes de Saavedra y Ferrocarril de Cuernavaca. <br/><br/>Consulta los costos y las comisiones de nuestros productos en covalto.com/archivos.<br/><br/>Conoce las tasas y cálculos de GAT del instrumento de inversión <a href="https://credijusto-production-covalto-website.s3.amazonaws.com/GAT_Inversion_Covalto_a9519ab93e.pdf" style="color:#197bbd; font-style:normal; font-weight:normal; text-decoration:underline">aquí</a>. </span></div>
 <div style="text-align: justify;"> </div>
 </div>
-<div style="text-align: justify;"><span style="font-size: 12px; color: #576471;">¿Ya no quieres recibir estos correos? <a href="{{ Unsubscribe }}">Darme de baja</a>.</span></div>
+<div style="text-align: justify;"><span style="font-size: 12px; color: #576471;">¿Ya no quieres recibir estos correos? <a href="{{ Unsubscribe }}" style="color:#197bbd; font-style:normal; font-weight:normal; text-decoration:underline">Darme de baja</a>.</span></div>
 </div></div>
 </td>
 </tr>
@@ -1362,7 +1327,7 @@ Conocé más
 <tbody>
 <tr>
 <td style="width:122px;">
-<a href="https://covalto.com" target="_blank">Covalto</a>
+<a href="https://covalto.com" style="color:#197bbd; font-style:normal; font-weight:normal; text-decoration:underline" target="_blank">Covalto</a>
 </td>
 </tr>
 </tbody>
