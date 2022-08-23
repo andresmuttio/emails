@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="description" content="%%description%%" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap">
+        <link rel="icon" href="https://credijusto.com//favicon-32x32.png?v=032468052ee4d9f06f892d1ae2453ef1"
+            type="image/png">
+        <title>Encuesta NPS Covalto</title>
+
+        <style>
+            html * {
+                font-family: 'Poppins', sans-serif;
+                font-size: 16px;
+                box-sizing: border-box;
+            }
+
+            body {
+                background: #141925;
+                margin: 0;
+                padding: 0;
+                max-height: 100vh;
+            }
+
+            header {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-start;
+            }
+
+            .content {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-start;
+                /* width: 100vw; */
+            }
+
+            header .main-logo {
+                width: 200px;
+                height: auto;
+                padding: 25px 0;
+            }
+
+            .content .form-section {
+                width: 100vw;
+                background-color: #f4f6f9;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 50px 0;
+            }
+
+            .content .form-area {
+                max-width: 800px;
+                min-height: 65vh;
+            }
+
+            .content .form-area input[type="submit"],
+            .content .form-area input[type="text"] {
+                border-radius: 4px;
+                border: 1px solid #7D98B1;
+                font-weight: 500;
+                height: 40px;
+                min-width: 300px;
+                padding: 0 10px;
+            }
+
+            .content .form-area textarea {
+                border-radius: 4px;
+                border: 1px solid #7D98B1;
+                font-weight: 500;
+                min-width: 500px;
+                padding: 10px;
+                text-align: start;
+                background: none;
+            }
+
+            .footer-logo {
+                width: 200px;
+                height: auto;
+                align-items: left;
+                padding: 25px;
+            }
+
+            .content .form-area input[type="submit"] {
+                background: #FFAB4D;
+                color: #000;
+                font-weight: 500;
+                transition: 0.3s;
+                border: none;
+                text-align: center;
+                height: 50px;
+                cursor: pointer;
+            }
+
+            .content .form-area input[type="submit"]:hover {
+                opacity: .8;
+            }
+
+            .footer {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+            }
+
+            .footer .legal-link {
+                color: #fff;
+                padding: 25px;
+            }
+
+            /* Radio buttons style */
+
+
+            .input-group {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin-bottom: 24px;
+            }
+
+            .input-title {
+                margin-bottom: 24px;
+                text-align: center;
+                width: 100%;
+                font-weight: 500;
+                display: block;
+            }
+
+            .radio-group {
+                display: flex;
+                flex-direction: row;
+            }
+
+            .formbuilder-radio-inline label {
+                float: left;
+                margin: 0 5px 0 0;
+                width: 40px;
+                height: 40px;
+                position: relative;
+                border-radius: 4px;
+            }
+
+            .formbuilder-radio-inline label span,
+            .formbuilder-radio-inline input {
+                display: block;
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .formbuilder-radio-inline input[type="radio"] {
+                opacity: 0.01;
+                z-index: 100;
+                width: 100%;
+            }
+
+            .content .form-area input[type="text"] {
+                width: 100%;
+            }
+
+            .formbuilder-radio-inline label {
+                padding: 5px;
+                border: 1px solid #CCC;
+                cursor: pointer;
+                z-index: 90;
+            }
+
+            .formbuilder-radio-inline label:hover {
+                background: #ffac4d5a;
+
+            }
+
+            .formbuilder-radio-inline input:checked+span {
+                background: #FFAB4D;
+            }
+
+            @media screen and (max-width:700px) {
+                .content .form-area {
+                    padding: 0 15px;
+                }
+
+                .content .form-area input {
+                    width: 100%;
+                }
+            }
+        </style>
+
+    </head>
+
+    <body>
+        <header>
+            <a href="https://credijusto.com"><img class="main-logo" src="https://credijusto.com/credijusto-logo.svg"
+                    alt="credijusto-logo"></a>
+        </header>
+        <div class="content">
+            <div class="form-section">
+                <div class="form-area">
+                    <div class="rendered-form">
+                        <div class="formbuilder-radio-group form-group field-calificacion-nps input-group">
+                            <label for="calificacion-nps" class="formbuilder-radio-group-label input-title">¿Qué tan
+                                probable es que recomiendes este servicio a un amigo?<span
+                                    class="formbuilder-required">*</span></label>
+                            <div class="radio-group">
+                                <div class="formbuilder-radio-inline">
+                                    <label for="calificacion-nps-0">
+                                        <input name="calificacion-nps" access="false" id="calificacion-nps-0"
+                                            required="required" aria-required="true" value="1" type="radio">
+                                        <span>1</span>
+                                    </label>
+                                </div>
+                                <div class="formbuilder-radio-inline">
+                                    <label for="calificacion-nps-1">
+                                        <input name="calificacion-nps" access="false" id="calificacion-nps-1"
+                                            required="required" aria-required="true" value="2" type="radio">
+                                        <span>2</span>
+                                    </label>
+                                </div>
+                                <div class="formbuilder-radio-inline">
+                                    <label for="calificacion-nps-2">
+                                        <input name="calificacion-nps" access="false" id="calificacion-nps-2"
+                                            required="required" aria-required="true" value="3" type="radio">
+                                        <span>3</span>
+                                    </label>
+                                </div>
+                                <div class="formbuilder-radio-inline">
+
+                                    <label for="calificacion-nps-3">
+                                        <input name="calificacion-nps" access="false" id="calificacion-nps-3"
+                                            required="required" aria-required="true" value="4" type="radio">
+                                        <span>4</span>
+                                    </label>
+                                </div>
+                                <div class="formbuilder-radio-inline">
+
+                                    <label for="calificacion-nps-4">
+                                        <input name="calificacion-nps" access="false" id="calificacion-nps-4"
+                                            required="required" aria-required="true" value="5" type="radio">
+                                        <span>5</span>
+                                    </label>
+                                </div>
+                                <div class="formbuilder-radio-inline">
+
+                                    <label for="calificacion-nps-5">
+                                        <input name="calificacion-nps" access="false" id="calificacion-nps-5"
+                                            required="required" aria-required="true" value="6" type="radio">
+                                        <span>6</span>
+                                    </label>
+                                </div>
+                                <div class="formbuilder-radio-inline">
+
+                                    <label for="calificacion-nps-6">
+                                        <input name="calificacion-nps" access="false" id="calificacion-nps-6"
+                                            required="required" aria-required="true" value="7" type="radio">
+                                        <span>7</span>
+                                    </label>
+                                </div>
+                                <div class="formbuilder-radio-inline">
+
+                                    <label for="calificacion-nps-7">
+                                        <input name="calificacion-nps" access="false" id="calificacion-nps-7"
+                                            required="required" aria-required="true" value="8" type="radio">
+                                        <span>8</span>
+                                    </label>
+                                </div>
+                                <div class="formbuilder-radio-inline">
+
+                                    <label for="calificacion-nps-8">
+                                        <input name="calificacion-nps" access="false" id="calificacion-nps-8"
+                                            required="required" aria-required="true" value="9" type="radio">
+                                        <span>9</span>
+                                    </label>
+                                </div>
+                                <div class="formbuilder-radio-inline">
+
+                                    <label for="calificacion-nps-9">
+                                        <input name="calificacion-nps" access="false" id="calificacion-nps-9"
+                                            required="required" aria-required="true" value="10" type="radio">
+                                        <span>10</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="formbuilder-text form-group field-text-1656449422269 input-group">
+                            <label for="text-1656449422269" class="formbuilder-text-label input-title">¿Cuál es la razón
+                                más
+                                importante de tu calificación?<span class="formbuilder-required">*</span></label>
+                            <textarea type="text" class="razon-calificacion" name="text-1656449422269" access="false"
+                                id="text-1656449422269" required="required" aria-required="true" rows="4"></textarea>
+
+                        </div>
+                        <div class="input-group">
+                            <input type="submit" value="Enviar">
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <a href="https://credijusto.com"><img class="footer-logo" src="https://credijusto.com/credijusto-logo.svg"
+                    alt="credijusto-logo"></a>
+            <a class="legal-link" href="https://credijusto.com/legal/aviso-de-privacidad/">Legal</a>
+        </div>
+    </body>
+
+</html>
